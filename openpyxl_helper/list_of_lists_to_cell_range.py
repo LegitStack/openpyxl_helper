@@ -1,4 +1,3 @@
-
 # you could do the same or similar with dictionaries
 # entry - puts a list of lists [[1,2],
 #                               [3,4]] - a square area of data
